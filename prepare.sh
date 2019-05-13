@@ -11,4 +11,6 @@ wget https://raw.githubusercontent.com/dokun1/k8s-ingress-lab/master/service.yam
 cd ..
 mkdir kube-resources
 cd kube-resources
-wget 
+wget https://raw.githubusercontent.com/dokun1/k8s-ingress-lab/master/http-svc.yaml
+wget https://raw.githubusercontent.com/dokun1/k8s-ingress-lab/master/ingress-tls.yaml
+ 
